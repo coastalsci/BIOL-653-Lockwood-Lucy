@@ -10,3 +10,5 @@ The purpose of this file is to show that I can use some basic formatting techniq
 2. The numbered lists could contain *formatting*.
   + There could be subitems in the list.
   + And those subitems could have ~~donuts~~ formatting.
+
+Software is great - when it works. When however hidden startup files make it so RStudio won't even load and you don't know why - then it is less fun. :-<
